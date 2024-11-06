@@ -47,7 +47,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           
           # Add the generated files to Git
-          git add dist/snake.svg dist/github-snake-dark.svg dist/ocean.gif
+          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif
           
           # Commit the changes with a message
           git commit -m "Update Snake contribution graph"
