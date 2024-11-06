@@ -1,27 +1,43 @@
-name: Generate Snake Contribution Graph
+name: Generate Snake Animation
 
+# Trigger the workflow on a schedule, e.g., daily at midnight
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: "0 0 * * *"
+  # Allows you to manually run the workflow from GitHub Actions
   workflow_dispatch:
 
 jobs:
-  update-snake:
+  generate-snake:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout repository
+      # Check out the repository's code
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Contribution Graph
-        uses: platane/snk@v2
+      # Generate the snake.svg file using Platane's snake GitHub Action
+      - name: Generate Snake SVG
+        uses: Platane/snk@v2
         with:
-          github_user_name: Suchith-ra
-          # Optional settings
-          svg: true
-          scale: 3
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
 
-      - name: Commit and push Snake Contribution Graph
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: 'snake.svg'
-          message: 'Update Snake contribution graph'
+      # Create assets directory if it doesn’t exist
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      # Move the generated snake.svg file to the assets directory
+      - name: Move Snake SVG to assets
+        run: mv dist/snake.svg assets/snake.svg
+
+      # Commit and push the snake.svg file to the repository
+      - name: Commit and push Snake SVG
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/snake.svg
+          git commit -m "Update snake.svg animation"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
