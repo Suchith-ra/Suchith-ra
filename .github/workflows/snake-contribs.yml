@@ -12,6 +12,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Manually create the dist directory to ensure it exists
+      - name: Create dist Directory
+        run: mkdir -p dist
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake Contribution Graph
         uses: Platane/snk@v3
         with:
