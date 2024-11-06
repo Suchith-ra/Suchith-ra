@@ -11,15 +11,14 @@ I’m passionate about leveraging my skills to solve complex, real-world problem
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/suchithra-gandla">
-    <img src="https://img.shields.io/badge/SuchithraGandla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Suchithra_Gandla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  <img src="https://raw.githubusercontent.com/suchith-ra/suchith-ra/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/suchith-ra/suchith-ra/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages & Tools</h2>
@@ -74,7 +73,6 @@ I’m passionate about leveraging my skills to solve complex, real-world problem
 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchith-ra&theme=github_dark" alt="Suchithra's GitHub Stats"/></td>   
