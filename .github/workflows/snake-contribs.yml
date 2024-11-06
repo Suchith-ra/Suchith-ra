@@ -20,7 +20,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Suchith-ra  # Replace with your actual GitHub username
 
       # Create assets directory if it doesn’t exist
       - name: Create assets directory
