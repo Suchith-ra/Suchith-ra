@@ -39,3 +39,20 @@ jobs:
               dist/github-snake.svg
               dist/github-snake-dark.svg?palette=github-dark
               dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and Push Snake SVG
+        run: |
+          # Configure GitHub Actions user details
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add the generated files to Git
+          git add dist/snake.svg dist/github-snake-dark.svg dist/ocean.gif
+          
+          # Commit the changes with a message
+          git commit -m "Update Snake contribution graph"
+
+          # Push the changes back to the repository
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
