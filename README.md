@@ -1,9 +1,4 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
-</div>
-
-<div align="center">
     <h2>Hi there, I'm a Computer Science Graduate 👋</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I specialize in AI, Data Science, and Full-Stack Development. With a strong foundation in AI workflows and building end-to-end solutions, I’ve had the opportunity to deliver impactful projects for multinational companies, including Ericsson.
@@ -13,18 +8,11 @@ I’m passionate about leveraging my skills to solve complex, real-world problem
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn. </p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/zane-pearton">
+  <a href="https://www.linkedin.com/in/suchithra-gandla">
     <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/zanepearton">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
-  </a>
-<a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -89,17 +77,17 @@ I’m passionate about leveraging my skills to solve complex, real-world problem
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchith-ra&theme=github_dark" alt="Suchithra's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=suchith-ra&theme=merko" alt="Suchithra's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchith-ra&theme=github_dark" alt="Suchithra's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchith-ra&theme=github_dark&utcOffset=10" alt="Suchithra's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchith-ra&theme=github_dark" alt="Suchithra's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suchith-ra&theme=github_dark" alt="Suchithra's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
