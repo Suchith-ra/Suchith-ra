@@ -11,7 +11,7 @@ I’m passionate about leveraging my skills to solve complex, real-world problem
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/suchithra-gandla">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/SuchithraGandla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
