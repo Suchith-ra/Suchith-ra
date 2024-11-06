@@ -21,7 +21,6 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
 
       # Create assets directory if it doesn’t exist
       - name: Create assets directory
