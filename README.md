@@ -10,7 +10,7 @@ I’m passionate about leveraging my skills to solve complex, real-world problem
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. </p>
 <div align="center">
-  <a href="[https://www.linkedin.com/in/suchithra-gandla](https://www.linkedin.com/in/suchithra-gandla-496447203/)">
+  <a href="https://www.linkedin.com/in/suchithra-gandla-496447203/">
     <img src="https://img.shields.io/badge/Suchithra_Gandla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
